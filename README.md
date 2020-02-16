@@ -1,5 +1,5 @@
-# space-invaders
+# Space Invaders
 
-# DrRacket Space Invaders Game
+DrRacket Space Invaders Game
 
-# Final Project in EDX: How To Code Simple Data
+Final Project in EDX: How To Code Simple Data
